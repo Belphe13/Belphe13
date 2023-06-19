@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently teaching at Parsons School of Design
-- 🌱 I’m currently doing an artist residency at I-Park Foundation in Connecticut
+- 🔭 I’m currently a designer at Analog Devices.
+- 🌱 I'll be the artist-in-residence at Gallery 263, Cambridge, MA
 - 👯 I’m looking to collaborate on machine learning and moving images
 - 🤔 I’m looking to collaborate with composers on music scores
 - 💬 Ask me about my artistic practices in experimental film
